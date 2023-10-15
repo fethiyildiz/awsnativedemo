@@ -1,0 +1,5 @@
+
+credentials:
+  aws:
+    accessKey: <access_key_here>
+    secretKey: <secret_key_here>
